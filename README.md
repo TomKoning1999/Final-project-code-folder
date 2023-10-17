@@ -13,6 +13,7 @@ In the Python code in this directory, this task is fulfilled with several differ
 - XGBoost
 - Support Vector Machine (SVM)
 - Neural network
+
 We compare the results obtained with these models both with and without cosnidering realtime data.
 
 This directory contains the following files:
@@ -22,4 +23,5 @@ This directory contains the following files:
 We hope that you enjoy the content in the directory.
 
 Yours sincerely,
+
 group 4 of the course AH2179 Applied artifical intelligence in transportation (2023/2024)
