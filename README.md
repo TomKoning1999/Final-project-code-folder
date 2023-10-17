@@ -1,5 +1,4 @@
 # Final project code folder
- Final project code folder
 
 Dear reader,
 
@@ -14,13 +13,14 @@ In the Python code in this directory, this task is fulfilled with several differ
 - Support Vector Machine (SVM)
 - Neural network
 
-We compare the results obtained with these models both with and without cosnidering realtime data.
+We compare the results obtained with these models both with and without considering realtime data.
 
 This directory contains the following files:
 - The Python code for the project: "AH2179 final project group 4.ipynb"
 - The trained final model: "weights.best.h5"
 
 We hope that you enjoy the content in the directory.
+
 
 Yours sincerely,
 
